@@ -23,8 +23,11 @@ Where is the company losing money on deep discounts, and which regions need atte
 ## Repo Structure
 
 ├── sql/ → Queries used for data cleaning and analysis
+
 ├── python/ → Jupyter notebook verifying SQL results and building charts
+
 ├── excel/ → Workbook with PivotTables, formulas, and cleaning notes
+
 └── powerbi/ → Interactive Power BI dashboard (.pbix)
 
 
