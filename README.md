@@ -30,6 +30,12 @@ Where is the company losing money on deep discounts, and which regions need atte
 
 └── powerbi/ → Interactive Power BI dashboard (.pbix)
 
+## Dashboard Preview
+
+![Power BI Dashboard](powerbi/dashboard-preview.png)
+
+*Interactive version available in the `powerbi/` folder — includes filters for category and region.*
+
 
 ## Dataset
 
